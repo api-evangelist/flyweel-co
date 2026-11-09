@@ -1,4 +1,4 @@
-# flyweel-co
+# Flyweel
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-flyweel-co is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://flyweel.co/
+Flyweel provides an advertising finance platform that offers performance capital cards, debit cards and automated invoice reconciliation for businesses that spend on digital ads. The service is aimed at enterprise and B2B SaaS companies, lead sellers, affiliate marketers, financial services firms, law firms, home‑service providers, health‑and‑wellness providers, and education or coaching organizations.
+
+**Areas:** Advertising Finance · Capital Cards · Debit Cards · Invoice Reconciliation · Enterprise SaaS
+
+## Flyweel on APIs.io
+
+Everything profiled for Flyweel is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/flyweel-co/](https://apis.io/providers/flyweel-co/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Flyweel API](https://apis.io/apis/flyweel-co/flyweel-api/) — Flyweel advertising finance platform API
+- [Flyweel API](https://apis.io/apis/flyweel-co/flyweel-co-api/) — Flyweel API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-08); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostFunctionsV1McpServerMcpRequest](https://apis.io/schemas/flyweel-co/flyweel-co-post-functions-v1-mcp-server-mcp-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Flyweel Co Context](https://apis.io/jsonld/flyweel-co/flyweel-co-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Flyweel API Rules](https://apis.io/rules/flyweel-co/flyweel-co-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Flyweel Co Domain Security](https://apis.io/security/flyweel-co/flyweel-co-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Flyweel Co Plans Pricing](https://apis.io/plans/flyweel-co/flyweel-co-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://flyweel.co/)
+- [Documentation](https://www.flyweel.co/docs)
+- [Getting started](https://www.flyweel.co/faq)
+- [Pricing](https://www.flyweel.co/pricing)
+- [Sign up](https://signup.flyweel.co/?variant=control)
+- [Blog](https://www.flyweel.co/blog)
+- [Terms of service](https://www.flyweel.co/terms-of-service)
+- [Privacy policy](https://www.flyweel.co/privacy)
+
+## API Evangelist rating
+
+**Kin Score 48.2** — developing · rubric 0.27.0 · scored 2026-11-08
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 46.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 73.2 |
+
+**Agent readiness 25.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.0** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/flyweel-co/](https://apis.io/providers/flyweel-co/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Flyweel: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/flyweel-co/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
